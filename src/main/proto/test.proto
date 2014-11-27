@@ -1,0 +1,6 @@
+package fst.proto;
+
+message TestObject {
+	optional sint32 field1 = 1;
+	optional string field2 = 2;
+}
